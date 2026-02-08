@@ -1,5 +1,5 @@
 # 📝 Todo List Application
-
+![App Screenshot](./screenshot.png)
 אפליקציית ניהול משימות מודרנית הבנויה עם React 19 ו-Vite, עם תמיכה מלאה ב-RTL לעברית.
 
 ## 🚀 הרצת הפרויקט
